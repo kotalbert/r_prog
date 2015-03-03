@@ -19,6 +19,9 @@ https://class.coursera.org/rprog-011
 # Assignment 3
 ## Folder: a3
   * test_run.R [testing and running functions]
+  * best.R  [first part of assignment 3]
+  * rankhospital.R [second part of assignment 3]
+  * third part not completed
 
 #Quizes
 ## Folder: q1
